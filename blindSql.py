@@ -8,7 +8,7 @@ import time
 urllib3.disable_warnings()
 
 # Target URL (replace with the lab's specific URL)
-TARGET = "https://0a330079046e2076cbbfcd68008c00a3.web-security-academy.net/"
+TARGET = ""
 
 # SQL injection payload for finding password length
 # Uses the 'IF' conditional to delay the response when a match is found
