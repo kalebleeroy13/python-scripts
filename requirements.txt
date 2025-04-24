@@ -1,0 +1,8 @@
+Bext==0.0.8
+certifi==2025.1.31
+charset-normalizer==3.4.1
+colorama==0.4.6
+idna==3.10
+requests==2.32.3
+sevseg==0.1.0
+urllib3==2.4.0
